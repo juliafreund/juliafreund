@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliafreund
-- 👀 I’m interested in physics, computing
+- 👀 I’m interested in physics, computing and the combination of both.
 
 
 <!---
